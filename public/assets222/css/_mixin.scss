@@ -1,0 +1,123 @@
+
+@mixin background-color($color, $opacity: 0.949) {
+  background: $color; /* The Fallback */
+  background: rgba($color, $opacity);
+}
+
+@mixin karla() {
+  font-family: 'Karla-Regular', sans-serif;
+}
+
+@mixin karla-bold() {
+  font-family: 'Karla-Bold', sans-serif;
+}
+
+@mixin montserrat-bold() {
+  font-family: 'Montserrat-Bold', sans-serif;
+}
+
+@mixin placeholders($color) {
+  ::-webkit-input-placeholder {
+    color: $dark_blue !important;
+    font-size: 20px;
+  }
+
+  :-moz-placeholder { /* Firefox 18- */
+    color: $dark_blue !important;
+    font-size: 20px;
+  }
+
+  ::-moz-placeholder {  /* Firefox 19+ */
+    color: $dark_blue !important;
+    font-size: 20px;
+  }
+
+  :-ms-input-placeholder {
+    color: $dark_blue !important;
+    font-size: 20px;
+  }
+}
+
+@mixin placeholders2($color) {
+  ::-webkit-input-placeholder {
+    color: #6c6f86 !important;
+    font-size: 15px;
+  }
+
+  :-moz-placeholder { /* Firefox 18- */
+    color: #6c6f86 !important;
+    font-size: 15px;
+  }
+
+  ::-moz-placeholder {  /* Firefox 19+ */
+    color: #6c6f86 !important;
+    font-size: 15px;
+  }
+
+  :-ms-input-placeholder {
+    color: #6c6f86 !important;
+    font-size: 15px;
+  }
+}
+
+@mixin anchor($link, $hover: #fff, $visited: #000, $focus: #000) {
+  a {
+    color: $link;
+    text-decoration: none;
+    -webkit-transition: all 0.5s ease-in-out;
+    -moz-transition: all 0.5s ease-in-out;
+    -ms-transition: all 0.5s ease-in-out;
+    -o-transition: all 0.5s ease-in-out;
+    transition: all 0.5s ease-in-out;
+    &:active {
+      color: $hover !important;
+      text-decoration: none;
+    }
+    &:hover {
+      color: $hover !important;
+      text-decoration: none;
+    }
+    &:visited {
+      color: $visited;
+      text-decoration: none;
+    }
+    &:focus {
+      color: $focus;
+      text-decoration: none;
+      background-color: transparent !important;
+      outline: none;
+    }
+  }
+}
+
+
+@mixin shadow( $color: #ccc) {
+  -webkit-box-shadow: 2px 2px 5px 2px $color;  /* Safari 3-4, iOS 4.0.2 - 4.2, Android 2.3+ */
+  -moz-box-shadow:    2px 2px 5px 2px $color;  /* Firefox 3.5 - 3.6 */
+  box-shadow:         2px 2px 5px 2px $color;  /* Opera 10.5, IE 9, Firefox 4+, Chrome 6+, iOS 5 */
+}
+
+@mixin transition($set...) {
+  -webkit-transition: $set;
+  -moz-transition: $set;
+  -o-transition: $set;
+  transition: $set;
+}
+
+@mixin transform($set) {
+  -webkit-transform: $set;
+  -moz-transform: $set;
+  -ms-transform: $set;
+  -o-transform: $set;
+  transform: $set;
+}
+
+@mixin transform-origin($set) {
+  -webkit-transform-origin: $set;
+  -moz-transform-origin:$set;
+  -ms-transform-origin:$set;
+  -o-transform-origin:$set;
+  transform-origin:$set;
+}
+
+

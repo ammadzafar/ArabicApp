@@ -1,0 +1,120 @@
+@font-face {
+  font-family: 'icomoon';
+  src:  url('../fonts/icomoon.eot?phe7s1');
+  src:  url('../fonts/icomoon.eot?phe7s1#iefix') format('embedded-opentype'),
+    url('../fonts/icomoon.ttf?phe7s1') format('truetype'),
+    url('../fonts/icomoon.woff?phe7s1') format('woff'),
+    url('../fonts/icomoon.svg?phe7s1#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: block;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-export:before {
+  content: "\e91e";
+}
+.icon-eye:before {
+  content: "\e91d";
+}
+.icon-logout:before {
+  content: "\e91c";
+}
+.icon-Block:before {
+  content: "\e91a";
+}
+.icon-Blocked:before {
+  content: "\e91b";
+}
+.icon-credit-card:before {
+  content: "\e917";
+}
+.icon-more:before {
+  content: "\e918";
+}
+.icon-up-arrow:before {
+  content: "\e919";
+}
+.icon-add:before {
+  content: "\e900";
+}
+.icon-ameny-feedback:before {
+  content: "\e901";
+}
+.icon-ameny-logo:before {
+  content: "\e902";
+}
+.icon-calendar:before {
+  content: "\e903";
+}
+.icon-camera:before {
+  content: "\e904";
+}
+.icon-cancel:before {
+  content: "\e905";
+}
+.icon-cancel-1:before {
+  content: "\e906";
+}
+.icon-caution-sign:before {
+  content: "\e907";
+}
+.icon-dashboard:before {
+  content: "\e908";
+}
+.icon-delete:before {
+  content: "\e909";
+}
+.icon-down-arrow:before {
+  content: "\e90a";
+}
+.icon-edit:before {
+  content: "\e90b";
+}
+.icon-filter:before {
+  content: "\e90c";
+}
+.icon-left-arrow:before {
+  content: "\e90d";
+}
+.icon-manage-resident:before {
+  content: "\e90e";
+}
+.icon-messages:before {
+  content: "\e90f";
+}
+.icon-notification:before {
+  content: "\e910";
+}
+.icon-report:before {
+  content: "\e911";
+}
+.icon-reward:before {
+  content: "\e912";
+}
+.icon-right-arrow:before {
+  content: "\e913";
+}
+.icon-search:before {
+  content: "\e914";
+}
+.icon-setting:before {
+  content: "\e915";
+}
+.icon-tick:before {
+  content: "\e916";
+}

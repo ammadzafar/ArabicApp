@@ -1,0 +1,1307 @@
+@media (max-width:1800px){
+	.at-stats li .at-stat{padding: 45px 0 45px 10px;}
+	.at-stats li .at-stat em {
+		width: 50px;
+		height: 50px;
+		font-size: 30px;
+		line-height: 55px;
+		margin: 0 10px 0 0;
+		border-radius: 10px;
+	}
+	.at-signinpagewrapper{padding: 0 !important;}
+	/* .at-audiosound{max-width: 400px;} */
+	.at-userdetail {
+		width: 40%;
+		float: left;
+	}
+	.at-landingpagecontent {width: 600px;}
+	.at-recordingcontent .at-userrecording .at-sound {width: 45%;}
+	.at-recordingcontent .at-userrecording .at-userdetail {width: 50%;}
+	.at-statcontent h3 {
+		font-size: 24px;
+		line-height: 27px;
+	}
+}
+@media (max-width:1640px){
+	/* .at-recordingcontent{
+		width: 100%;
+		padding: 0;
+	} */
+	/* .at-twocolume{padding: 0 40px;} */
+	.at-sidebarwrappervtwo{
+		width: 49%;
+		float: left;
+		height: auto;
+		position: static;
+	}
+	.at-recordingcontentvtwo{max-width: 500px;}
+	.at-recordingcontentvtwo figure{max-width: 400px;}
+	/* .at-wrappervtwo{padding: 130px 0 0 0 !important;}
+	.at-sidebarwidgetsvtwo{
+		width: 49%;
+		float: right;
+		height: auto;
+		position: static;
+		padding: 30px 30px 11px;
+	} */
+	.at-rulecontent{width: 86%;}
+	/* .at-audiosound {max-width: 900px;} */
+	.at-audiosound {
+		width: 40%;
+		margin: 30px 0 0 150px;
+	}
+	.at-statcontent span{
+		font-size: 14px;
+		line-height: 17px;
+	}
+	.at-statcontent h3 {
+		font-size: 30px;
+		line-height: 33px;
+	}
+	
+	.at-totalstats li .at-totalstat span {
+		font-size: 11px;
+		line-height: 14px;
+	}
+	.at-statcontent h3 {
+		font-size: 26px;
+		line-height: 27px;
+	}
+	.at-totalstats li .at-totalstat figure {margin: 0 10px 0 0;}
+	.at-wrapper{padding: 130px 0 0 100px;}
+	.at-content{padding: 20px;}
+	.at-masterrecordingholder{padding: 20px 0 0;}
+	.at-btnmenu{display: block;}
+	.at-sidebarwrapper{
+		width: 100px;
+		padding: 30px 22px;
+	}
+	.at-closemenu .at-adminprofile h3{display: block;}
+	.at-adminprofile h3{display: none;}	
+	.at-nav ul li a span{display: none;}
+	.at-nav ul li a {padding: 15px 17px;}
+	.at-logoutholder a span{display: none;}
+	.at-logoutholder a{padding: 0 18px;}
+	.at-wrapper.at-closemenu{padding: 130px 0 0 100px;}
+	.at-closemenu .at-logoutholder a span,
+	.at-closemenu .at-profilearea a,
+	.at-closemenu .at-profilearea h3{display: inline-block;}
+	.at-closemenu .at-sidebarwrapper{width: 300px;}
+	.at-closemenu .at-nav ul li a span{display: block;}
+	.at-studentdata li .form-group .at-inputwidthfifty{width: 43%;}
+	.at-stats li .at-stat{padding: 45px 0 45px 15px;}
+	.at-header{padding: 9px 30px;}
+	.at-dropdownlanguage{padding: 32px 20px;}
+	.at-userinfodropdown{padding: 31px 0;}
+}
+@media (max-width:1590px){
+	.at-nopaddingwrapper {padding: 130px 0 0 0 !important;}
+	.at-mastercontent table tr td,
+	.at-mastercontent table tr th{
+		font-size: 12px;
+		line-height: 15px;
+	}
+	/* .at-headerrightarea .at-description{margin: 0 100px 0 0;} */
+	.at-masterrecordingholder{padding: 0;}
+	.at-signinpage .form-group p {padding: 0 270px;}
+	.at-signintitle h2 {
+		font-size: 30px;
+		line-height: 34px;
+	}
+	.at-btnloginmethoud{font-size: 13px;}
+	.at-landingpagecontent {
+		float: left;
+		margin: 0 100px;
+	}
+	.at-closemenu .at-userimage{margin: 0 20px 0 0;}
+	.at-statcontent span {
+		font-size: 11px;
+		line-height: 15px;
+	}
+	.at-chapteredit h3{
+		font-size: 20px;
+		line-height: 23px;	
+	}
+	.at-mastercontent table tr td .at-masterrecording{padding: 10px 16px;}
+	.at-rateraddrules .select2-container {
+		width: 300px !important;
+	}
+}
+@media (max-width:1440px){
+	.at-studentdata li .form-group input{padding: 10px;}
+	.at-stats li .at-stat em {
+		width: 40px;
+		height: 40px;
+		font-size: 20px;
+		line-height: 45px;
+		margin: 0 5px 0 0;
+		border-radius: 10px;
+	}
+	.at-statcontent h3 {
+		font-size: 26px;
+		line-height: 30px;
+	}
+	.at-totalstats li .at-totalstat figure {width: 30px;}
+	.at-signinpage .at-description p{
+		font-size: 20px;
+		line-height: 23px;
+	}
+	.at-signinpagecontentvtwo{padding: 0;}
+	.at-username em,
+	.at-username a{left: 150px;}
+	.at-statcontent span {
+		font-size: 10px;
+		line-height: 13px;
+	}
+	.at-statcontent h3 {
+		font-size: 18px;
+		line-height: 18px;
+	}
+	.at-students .at-mastercontent{overflow: auto;}
+	.at-students .at-mastercontent .at-formtheme{
+		overflow: auto;
+		min-width: 1110px;
+	}
+	.at-masterrecordings .sound-wave{width: 200px;}
+	.at-statsholder{padding: 20px 0;}
+	.at-ratings,
+	.at-totalstatsholder{margin: 0 0 20px;}
+	.at-sidebarwidgets{padding: 20px 0 0;}
+	.at-recordinghead .at-userdetail {width: 300px;}
+	.at-btnholder {width: 600px;}
+	.at-btnsubmited {
+		line-height: 36px;
+		font-size: 14px;
+		border-radius: 5px;
+		padding: 0 25px;
+		-webkit-box-shadow: 0 3px 0 3px #5396f7d4;
+		box-shadow: 0 3px 0 3px #5396f7d4;
+	}
+	.at-starsarea{padding: 12px 0 12px 20px;}
+	.at-btnsubmateholder {padding: 19px 0;}
+	.at-table{
+		min-width: 1100px;
+		overflow: auto;
+	}
+}
+@media (max-width:1366px){
+	.at-masterrecordings .sound-wave {width: 110px;}
+	.at-statcontent h3 {
+		font-size: 23px;
+		line-height: 26px;
+	}
+	.at-statcontent span {
+		font-size: 12px;
+		line-height: 15px;
+	}
+	.at-fileform .form-group label i{
+		padding: 0;
+		margin: 0 0 50px;
+	}
+	.at-signinpagecontent{margin: 0;}
+	.at-voiceandratings .at-userrecording{padding: 10px;}
+	.at-userrecording{padding: 10px 60px;}
+	.at-dashboardcontent {
+		width: 100%;
+		float: left;
+	}
+	.at-sidebarwidgets{
+		width: 100%;
+		float: left;
+	}
+	.at-chapters li {padding: 10px;}
+	.at-forgotpassword .at-signintitle span{
+		font-size: 12px;
+		line-height: 15px;
+	}
+	.at-sidebarwidget,
+	.at-overviewchartholder,
+	.at-totalstatsholder{padding: 25px 40px;}
+	.at-widgethead .at-sectiontitlevtwo h2,
+	.at-voiceandratings .at-sectionheadvtwo .at-sectiontitlevtwo h2{font-size: 19px;}
+	.at-progress{width: 70%;}
+	.at-totalrattings li:last-child .at-progress {width: 74%;}	
+	.at-headerrightarea .at-description {
+		width: 410px;
+	}
+	.at-headerrightarea .at-description p {
+		font-size: 20px;
+		line-height: 23px;
+	}
+}
+@media (max-width:1280px){
+	.at-ratingpoints{background: #2272B8;}
+	.at-voiceandratings {
+		width: 100%;
+		float: left;
+	}
+	.at-sidebarwidgetvtwo{
+		width: 100%;
+		float: left;
+	}	
+	.at-sidebarwidgetvtwo{padding: 0;}
+	.at-chapters li {padding: 8px;}
+	.at-authorizedmaster,
+	.at-ratingpoints,
+	.at-sidebarwidgetvtwo,
+	.at-ratingsanduservoice{border: 0;}
+	.at-recordingcontentvtwo {
+		padding: 30px 0;
+		max-width: 300px;
+		margin: 20px auto 0;
+		border-radius: 20px;
+	}
+}
+@media (max-width:1250px){
+	.at-mastercontent{overflow: auto;}
+	.at-alphabetrule .at-mastercontent .at-table{min-width: 800px;}
+	.at-selectrule .select2-container {
+		width: 300px !important;
+	}
+	.at-mastercontent .at-formtheme{
+		overflow: auto;
+		min-width: 1110px;
+	}
+	.at-addrule .at-table,
+	.at-addrule .at-formtheme{min-width: 800px;}
+	.at-addrule .at-studentdata li {
+		width: 40%;
+	}
+	.at-addrule .at-studentdata li:last-child {
+		width: 20%;
+	}
+	.at-loginmethoud li {
+		width: 50%;
+		padding: 0 0 10px 10px;
+	}
+	.at-loginmethoud li:first-child{padding: 0 0 10px;}
+	.at-signintitle h2 {
+		font-size: 26px;
+		line-height: 30px;
+	}
+}
+@media (max-width:1199px){
+	.at-recordingarea{padding:0 20px;}
+	.at-headerrightarea .at-description{
+		width: 450px;
+		/* margin: 0 70px 0 0; */
+	}
+	.at-headerrightarea .at-description p{
+		font-size: 16px;
+		line-height: 20px;
+	}
+	.at-chapters li{width: 50%;}
+	.at-landingpagecontent .at-description p {
+		font-size: 30px;
+		line-height: 34px;
+	}
+	.at-landingpagecontent{width: 500px;}
+	.at-landingpageimg {
+		width: 39%;
+		float: right;
+	}
+	/* .at-audiosound {max-width: 500px;} */
+	/* .at-sidebarwidgetsvtwo{
+		width: 100%;
+		float: left;
+		height: auto;
+		position: static;
+		padding: 30px 30px 11px;
+	} */
+	.at-wrappervtwo {padding: 130px 0 0 0 !important;}
+	.at-recordingstatus ul{height: auto;}
+	.at-recordingcontentvtwo h3 {
+		font-size: 30px;
+		line-height: 33px;
+	}
+	.at-rightarow {
+		right: -50%;
+		width: 90px;
+	}
+	.at-leaftarow {
+		left: -50%;
+		width: 90px;
+	}
+	.at-btnholder {width: 500px;}	
+	.at-btnholder ul li{padding: 0 10px;}
+	.at-btnsubmit{padding: 20px 0;}
+	.at-sliderbtnprev{left:20px;}
+	.at-sliderbtnnext{right:10px;}
+}
+@media (max-width:1080px){
+	.at-searchform {width: 300px;}
+	.at-chaptercontent,
+	.at-chaptersidebarwidget{
+		width: 100%;
+		border-radius: 20px;
+	}
+	.at-chapters li{width: 33.33%;}
+	.at-totalstats li .at-totalstat span {
+		font-size: 12px;
+		line-height: 15px;
+	}
+}
+@media (max-width:1024px){
+	.at-recordinghead .at-btnmenuvtwo {
+		display: block;
+		float: left;
+		position: static;
+		margin: 30px 20px 0 0;
+	}
+	.at-recordingcontent{width: 100%;}
+	.at-closemenu .at-recordingcontent{filter: grayscale(100%);}
+	.at-closemenu .at-masterrecordingholder{background: #51504B;}
+	.at-sidebarwidgetsvtwo {
+		width: 0;
+		right: 0;
+		top: 130px;
+		position: fixed;
+		border-left: 0;
+	}
+	.at-closemenu .at-sidebarwidgetsvtwo {
+		width: 400px;
+		background: #2373B9;
+	}
+	.at-closemenu .at-recordingheadrightarea .at-btnmenuvtwo{
+		position: fixed;
+		left: 0;
+	}
+	.at-btnediticons{left: 120px;}
+}
+@media (max-width:991px){
+	.at-header{padding: 5px 20px;}
+	.at-logo {width: 120px;}
+	.at-headerrightarea .at-description{
+		padding: 24px 0;
+		/* margin: 0 50px 0 0; */
+	}
+	.at-logovtwo {
+		width: 89px;
+		margin: 18px 20px 18px;
+	}
+	.at-wrapper {padding: 100px 0 0 100px;}
+	.at-nopaddingwrapper, .at-wrappervtwo {
+		padding: 100px 0 0 0 !important;
+	}
+	.at-wrapper.at-closemenu{padding: 100px 0 0 100px;}
+	.at-sidebarwrapper{
+		top: 99px;
+		height: calc(100vh - 100px);
+	}
+	.at-sectiontitle h2{
+		font-size: 20px;
+		line-height: 23px;
+	}
+	.at-searchform {
+		width: 180px;
+		margin: 0 10px 0 0;
+	}
+	.at-yourstatsholder span {
+		width: 80px;
+		font-size: 12px;
+		line-height: 15px;
+	}
+	.at-sidebarwrappervtwo{padding: 20px;}
+	/* .at-sidebarwidgetsvtwo{padding: 20px 20px 11px;} */
+	.at-sidebarhead h2{
+		font-size: 20px;
+		line-height: 23px;
+	}
+	.at-recordingheadrightarea .at-units {padding: 26px 0;}
+	.at-units{padding: 8px 0 8px 15px;}
+	.at-signinpagecontentarea,
+	.at-signincontentholder{
+		width: 50%;
+		padding: 0 10px;
+	}
+	.at-fileform .form-group label{
+		width: 140px;
+		font-size: 20px;
+	}
+	.at-signinpage .form-group p {padding: 0 20px;}
+	.at-signinpage .form-group p {
+		font-size: 14px;
+		line-height: 17px;
+	}
+	.at-recorderimg{
+		width: 50px;
+		margin: 0 10px 0 0;
+	}
+	.at-voicequiz,
+	.at-authorizedmaster{
+		width: 100%;
+		float: left;
+		height: auto;
+		padding: 20px 10px;
+	}
+	.at-ratingpoints,
+	.at-widgethead{padding: 10px;}
+	.at-voicequiz ul{
+		height: auto;
+		padding: 0 0 20px;
+	}
+	.at-ratingpoints ul{height: auto;}
+	/* .at-authorizedmaster{margin: 20px 0 10px;} */
+	.at-selectcountery{height: 50px;}
+	.at-signinpage .at-description p{width: 300px;}
+	.at-landingpagecontent .at-description {padding: 0;}
+	.at-landingpagecontent .at-description p{
+		font-size: 20px;
+		line-height: 24px;
+	}
+	.at-landingpagecontent {
+		width: 300px;
+		margin: 0 40px;
+	}
+	.at-stats li {
+		width: 50%;
+		padding: 10px;
+	}
+	.at-stats li:last-child {padding: 0;}
+	.at-dashboard .at-searchform{margin: 0 !important;}
+	.at-btncreat{
+		padding: 0 35px;
+		-webkit-box-shadow: 0 3px 0 3px #5396f7d4;
+    	box-shadow: 0 3px 0 3px #5396f7d4;	
+	}
+	.at-username span {padding: 5px 0;}
+	.at-userrecording .sound-wave{height: 60px;}
+	.at-btntoggle i {font-size: 34px;}
+	.at-btntoggle span{
+		width: 32px;
+		height: 32px;
+		margin: 1px;
+	}
+	.at-btntoggle .at-btnpause::after{
+		height: 13px;
+		left: 18px;
+	}
+	.at-btntoggle .at-btnpause::before {
+		left: 10px;
+		height: 13px;
+	}
+	.at-sidebarwidgetsvtwo{
+		top: 100px;
+		height: calc(100vh - 100px);
+	}
+	.at-recordingstatus{height: calc(100vh - 340px);}
+	.at-masterrecordingholder{height: calc(
+		100vh - 100px);
+		overflow: auto;
+	}
+	.at-btnplay{font-size: 36px !important;}
+	.at-alhphbatslider .at-sliderbtnnext{right: 0;}
+	.at-alhphbatslider .at-sliderbtnprev{left: 0;}
+	.at-logout{right: 100px;}
+	.at-progress{width: 56%;}
+	.at-totalrattings li:last-child .at-progress {width: 62%;}	
+	.at-dropdownlanguage {
+		padding: 21px 20px;
+	}
+	.at-userinfodropdown {
+		padding: 19px 0;
+	}
+	
+	
+}
+@media (max-width:850px){
+	.at-chapters li{width: 50%;}
+	.at-btncreat {
+		height: 35px;
+		padding: 0 15px;
+		font-size: 14px;
+		line-height: 35px;
+		border-radius: 5px;
+	}
+	.at-searchform .form-group .at-searchicon{
+		right: 10px;
+		font-size: 16px;
+	}
+	.at-searchform .form-group input {
+		height: 35px;
+		border-radius: 5px;
+		padding: 5px 25px 5px 10px;
+	}
+	.at-btndelete{padding: 7px 0;}
+	.at-sidebarwidget,
+	.at-overviewchartholder,
+	.at-totalstatsholder{padding: 20px;}
+	.at-mastercontent table tr td .at-btnedit{margin: 10px 20px 0 0;}
+	.at-dropdownlanguage{padding: 21px 0;}
+	.at-dropdownlanguage > a{border: 0;}
+}
+@media (max-width:800px){
+	.at-totalstats li{width: 50%;}
+	.at-recordingcontent{padding: 0;}
+	.at-sidebarwrappervtwo{width: 100%;}
+	.at-twocolume {padding: 0 20px;}
+	.at-totalstats li:last-child{padding: 10px 0 0;}
+}
+@media (max-width:767px){
+	.at-headerrightarea .at-description p {
+		font-size: 12px;
+		line-height: 15px;
+	}
+	.at-header {
+		padding: 5px 10px;
+		background: #203f7f;
+	}
+	.at-userinfodropdown {
+		padding: 12px 0;
+	}
+	.at-headerrightarea .at-description {
+		width: 100%;
+		float: left;
+		padding: 6px 0;
+	}
+	.at-logovtwo {
+		width: 72px;
+		margin: 10px;
+	}
+	.at-logout{
+		margin: 0;
+		font-size: 20px;
+	}
+	.at-wrapper.at-closemenu,
+	.at-wrapper {padding: 112px 0 0;}
+	.at-nopaddingwrapper, .at-wrappervtwo {
+		padding: 112px 0 0 0 !important;
+	}
+	.at-sidebarwrapper{
+		top: 112px;
+		height: calc(100vh - 112px);
+	}
+	.at-sectiontitle h2 {
+		font-size: 16px;
+		line-height: 20px;
+	}
+	.at-btndelete {
+		float: left;
+		font-size: 19px;
+		line-height: 22px;
+		margin: 0 5px 0 0;
+	}
+	.at-stats li{
+		width: 50%;
+		padding: 10px;
+	}
+	.at-stats li:last-child{padding: 10px;}
+	.at-wrappervtwo {padding: 85px 0 0 0 !important;}
+	.at-landingpagecontent {width: 50%;}
+	.at-landingpagecontent .at-description p {
+		margin: 0;
+		font-size: 14px;
+		line-height: 17px;
+	}
+	.at-signinform .form-group input {
+		height: 50px;
+		font-size: 14px;
+		line-height: 17px;
+		padding: 10px 20px 10px 50px;
+	}
+	.at-signinform .form-group .at-inputwidthicon i{
+		font-size: 17px;
+		padding: 8px 10px;
+	}
+	.at-btnlogin {
+		height: 50px;
+		line-height: 50px;
+	}
+	.at-signintitle h2 {
+		font-size: 21px;
+		line-height: 24px;
+	}
+	.at-username a {font-size: 30px;}
+	.at-userrecording .sound-wave {height: 50px;}
+	.at-username span{padding: 5px 0;}
+	.at-username h4 {
+		font-size: 14px;
+		line-height: 17px;
+	}
+	.at-signinform .at-checkbox label {
+		margin: 0;
+		font-size: 12px;
+		color: #5396F7;
+		line-height: 27px;
+		padding: 0 0 0 30px;
+	}
+	.at-btnforgotpassword{font-size: 12px;}
+	.at-landingpagecontent .at-description{padding: 20px 0;}
+	.at-totalstats li .at-totalstat span{
+		overflow: hidden;
+		display: -webkit-box;
+		-webkit-line-clamp: 1;
+		-webkit-box-orient: vertical;
+	}
+	.at-ratingparcentage::after {
+		width: 90px;
+		left: -100px;
+	}
+	.at-toprecordings li em {
+		font-size: 18px;
+		line-height: 27px;
+		padding: 8px 0 8px 40px;
+	}
+	.at-recorderpercantage {
+		width: 34px;
+		height: 34px;
+		font-size: 12px;
+		line-height: 34px;
+	}
+	.at-rightarea .at-btndelete{
+		width: auto;
+		float: left;
+		padding: 0 10px 0 0;
+	}
+	.at-chapteredit h3 {
+		font-size: 15px;
+		line-height: 23px;
+	}
+	.at-userrecording .at-sound {
+		width: 50%;
+		float: right;
+	}
+	.at-logo {width: 90px;}
+	.at-addchapers li {height: 90px;}
+	.at-iconcancel {
+		width: 18px;
+		height: 18px;
+		right: -8px;
+		font-size: 8px;
+		line-height: 18px;
+	
+	}
+	.at-filterarea ul li{
+		width: 50%;
+	}
+	.at-filterarea ul li:first-child{
+		width: 100%;
+		padding: 0 0 30px;
+	}
+	.at-sidebarwidgetsvtwo{
+		top: 85px;
+		height: calc(100vh - 85px);
+	}
+	/* .at-recordingstatus{height: calc(100vh - 320px);} */
+	.at-masterrecordingholder{height: calc(100vh - 85px);}
+	.at-signuppage .at-logo {margin: 60px 0 0;}
+	.at-dropdownlanguage{padding: 20px 0;}
+	.at-dropdownlanguage > a{padding: 0;}
+	.at-sidebarwrapper{
+		left: -100px;
+		padding: 30px 22px;
+	}
+	.at-closemenu .at-sidebarwrapper{
+		left: 0;
+	}
+	.at-btnmenu{display: none;}
+	.at-btnmenuvtwo{display: block;}
+	.at-userinfodropdown button span {
+		width: 40px;
+		height: 40px;
+		margin: 0 5px 0 0;
+	}
+	.at-userinfodropdown button::after{margin: 15px 0;}
+}
+@media (max-width:640px){
+	.at-totalstatsholder,
+	.at-sidebarwidget{padding: 15px;}
+	.at-overviewchart {padding: 20px 0 0;}
+	.at-overviewchartholder{padding: 15px;}
+	/* .at-audiosound {max-width: 300px;} */
+	.at-userdetail {
+		width: 100%;
+		float: left;
+		padding: 0 0 10px;
+	}
+	.at-leaftarow {font-size: 30px;}
+	.at-voiceandratings .at-userrecording{padding: 10px;}
+	.at-userrecording {padding: 10px 45px;}
+	.at-signinpage .at-description p {
+		width: 200px;
+		font-size: 14px;
+		line-height: 17px;
+	}
+	.at-statcontent span{
+		overflow: hidden;
+		display: -webkit-box;
+		-webkit-line-clamp: 1;
+		-webkit-box-orient: vertical;
+	}
+	.at-searchform {margin: 0 10px 10px 0;}
+	.at-chapterwidget{padding: 0 10px;}
+	.at-number {
+		width: 26px;
+		height: 26px;
+		font-size: 14px;
+		line-height: 26px;
+		border-radius: 5px;
+		margin: 0 10px 0 0;
+	}
+	.at-chaptername {
+		padding: 3px 0;
+		font-size: 13px;
+	}
+	.at-iconedit{margin: 0 10px;}
+	.at-chapters li{
+		width: 100%;
+		padding: 0 0 15px;
+	}
+	.at-chapteredit h3 {
+		font-size: 20px;
+		line-height: 23px;
+	}
+	.at-usernameemail h2 {
+		font-size: 24px;
+		line-height: 30px;
+	}
+	.at-usernameemail span{font-size: 14px;}
+	.at-signinpagecontentarea{
+		width: 100%;
+		display: none;
+		height: 50vh;
+	}
+	.at-fileform {height: 50vh;}
+	.at-signincontentholder {
+		width: 100%;
+		padding: 0 10px;
+	}
+	.at-userrecording .at-sound {
+		width: 100%;
+		float: left;
+	}
+	
+	.at-adminsignin .at-signincontentholder {
+		height: auto;
+		padding: 40px 20px;
+	}
+	.at-adminsignin .at-signinpagecontent {height: auto;}
+	.at-ratersignin .at-signincontentholder {
+		height: auto;
+		padding: 40px 20px;
+	}
+	/* .at-ratersignin .at-signinpagecontent {height: auto;} */
+	/* .at-studentsignin .at-signincontentholder {
+		height: auto;
+		padding: 40px 20px;
+	}
+	.at-studentsignin .at-signinpagecontent {height: auto;} */
+	/* .at-mastersignin .at-signincontentholder {
+		height: auto;
+		padding: 40px 20px;
+	} */
+	/* .at-mastersignin .at-signinpagecontent {height: auto;} */
+	.at-forgotpassword .at-signinpagecontent{height: 80vh;}
+	.at-signinpagecontent {height: 100vh;}
+	.at-rightarow {
+		right: -25%;
+		width: 70px;
+	}
+	.at-leaftarow {
+		left: -25%;
+		width: 70px;
+	}
+	.at-progress{width: 46%;}
+	.at-totalrattings li:last-child .at-progress {width: 56%;}
+}
+@media (max-width:568px){
+	.at-logout {right: 60px;}
+	/* .at-logo {width: 70px;} */
+	.at-signinpage .at-logo{width: 100px;}
+	/* .at-headerrightarea .at-description {
+		padding: 6px 0;
+		width: 150px;
+	} */
+	/* .at-headerrightarea .at-description p {
+		font-size: 9px;
+		line-height: 13px;
+	} */
+	/* .at-logovtwo {width: 52px;} */
+	/* .at-wrapper {padding: 62px 0 0;} */
+	/* .at-nopaddingwrapper, .at-wrappervtwo {
+		padding: px 0 0 0 !important;
+	} */
+	/* .at-sidebarwrapper{
+		top: 62px;
+		height: calc(100vh - 62px);
+	} */
+	.at-sectionheadrightarea {position: relative;}
+	.at-sectionheadvtwo{padding: 20px 0;}
+	.at-sectiontitlevtwo h2{
+		font-size: 18px;
+		line-height: 21px;
+	}
+	.at-sectionheadvtwo .at-sectiontitlevtwo span{
+		font-size: 18px;
+		line-height: 21px;
+	}
+	.at-totalstats li {
+		border: 0;
+		width: 100%;
+	}
+	.at-toprecordings li em{padding: 8px 0 8px 40px;}
+	.at-ratingparcentage::after {
+		width: 140px;
+		left: -150px;
+	}
+	.at-wrappervtwo {padding: 62px 0 0 0 !important;}
+	.at-fileform .form-group label{
+		padding: 0;
+		width: 100px;
+		font-size: 14px;
+	}
+	.at-signinpage .form-group p {padding: 0 5px;}
+	.at-raterpersantage{padding: 0 0 0 30px;}
+	/* .at-starsarea {
+		float: right;
+		padding: 0 0 0 50px;
+	} */
+	.at-rulecontent li span{height: 20px;}
+	.at-loginmethoud li {
+		width: 100%;
+		padding: 0 0 10px;
+	}
+	.at-dontaccount span{
+		font-size: 12px;
+		line-height: 15px;
+	}
+	.at-signintitle h2 {
+		font-size: 14px;
+		line-height: 17px;
+		margin: 0 0 5px;
+	}
+	.at-signintitle span {
+		font-size: 13px;
+		line-height: 16px;
+	}
+	.at-dashboard .at-searchform{width: 160px;}
+	.at-searchform {
+		width: 120px;
+		margin: 0 10px 10px 0;
+	}
+	.at-addchapers li {width: calc(33.33% - 12px);}
+	/* .at-sidebarwrapper {
+		width: 0;
+		padding: 0;
+	} */
+	/* .at-wrapper.at-closemenu {padding: 62px 0 0;} */
+	/* .at-closemenu .at-sidebarwrapper {
+		padding: 30px 22px;
+	} */
+	.at-totalstats li{padding: 20px 0;}
+	.at-totalstats li:last-child {padding: 0;}
+	.at-modalform .form-group .at-inputwidthfifty{
+		width: 100%;
+		margin: 0 0 20px;
+	}
+	.at-modalform .form-group .at-inputwidthfifty:last-child{margin: 0;}
+	.at-chapterwidget ul li a{font-size: 14px;}
+	.at-sidebarwidgetsvtwo{
+		top: 62px;
+		height: calc(100vh - 62px);
+	}
+	.at-recordingstatus{height: calc(100vh - 320px);}
+	.at-masterrecordingholder{height: calc(100vh - 62px);}
+	.at-audiosound {margin: 0 0 0 30px;}
+	.at-btnholder {width: 400px;}
+	.at-recordinghead .at-userdetail {width: 270px;}
+	.at-recordingheadrightarea .at-units span, .at-recordingheadrightarea .at-units em {
+		font-size: 14px;
+		line-height: 17px;
+	}
+	.at-btnholder ul li{padding: 0;}
+	.at-sliderbtnprev,
+	.at-sliderbtnnext {
+		width: 40px;
+		height: 40px;
+		background-size: 54px;
+	}
+	.at-username a{left: 100px;}
+	.at-username .at-btnheaarticon label{
+		left: 100px;
+		font-size: 30px;
+	}
+}
+@media (max-width:480px){
+	.at-chapterwidget{padding: 0 10px;}
+	.at-number {
+		width: 26px;
+		height: 26px;
+		font-size: 14px;
+		line-height: 26px;
+		border-radius: 5px;
+		margin: 0 10px 0 0;
+	}
+	.at-chaptername {
+		padding: 3px 0;
+		font-size: 13px;
+	}
+	.at-iconedit{margin: 0 10px;}
+	.at-stats li:last-child{padding: 10px 0;}
+	.at-totalstats li .at-totalstat figure {width: 30px;}
+	.at-stats li{
+		width: 100%;
+		padding: 10px 0;
+	}
+	.at-totalstats li .at-totalstat span {
+		font-size: 10px;
+		line-height: 13px;
+	}
+	.at-recorder{width: 100%;}
+	.at-toprecordings li em{
+		padding: 8px 0;
+		font-size: 18px;
+		line-height: 21px;
+	}
+	/* .at-recordingarea{padding: 20px 10px 70px;} */
+	.at-btnicondeleted {
+		width: 30px;
+		height: 30px;
+		font-size: 16px;
+		line-height: 30px;
+	}
+	.at-recordingcontentvtwo h3 {
+		font-size: 20px;
+		line-height: 23px;
+	}
+	.at-leaftarow {
+		top: 45%;
+		font-size: 30px;
+	}
+	.at-units {padding: 0 0 0 20px;}
+	.at-units em, .at-units span{
+		font-size: 14px;
+		line-height: 17px;
+	}
+	.at-recordinghead h2{
+		font-size: 18px;
+		line-height: 20px;
+	}
+	.at-serchchapter {
+		width: 100%;
+		float: left;
+	}
+	.at-sidebarwrappervtwo .at-nav ul li{padding: 10px;}
+	.at-unit {
+		width: 56px;
+		height: 56px;
+		font-size: 12px;
+		padding: 10px 0;
+		line-height: 20px;
+	}
+	.at-unit span{font-size: 20px;}
+	.at-unittitle {
+		float: left;
+		padding: 0 0 0 10px;
+	}
+	.at-unittitle h2 {
+		font-size: 20px;
+		line-height: 23px;
+	}
+	.at-recordingstatus{padding: 10px;}
+	.at-statrecording {padding: 10px 0 10px 20px;}
+	.at-yourstat{padding: 5px;}
+	.at-yourstatsholder em{
+		font-size: 16px;
+		line-height: 20px;
+	}
+	.at-yourstatsholder span {
+		width: 70px;
+		font-size: 10px;
+		line-height: 12px;
+	}
+	.at-sectiontitlewidthicon i {font-size: 20px;}
+	.at-sectiontitlewidthicon h3{padding: 2px 10px;}
+	.at-sidebarhead .at-units{padding: 6px 0 6px 8px;}
+	.at-landingpagecontent{border: 2px solid ;}
+	.at-landingpageimg{height: auto;}
+	.at-landingpage{padding: 30px 0;}
+	.at-btnholdervtwo {padding: 20px 0;}
+	.at-fileform .form-group label i {margin: 10px 0;}
+	.at-btnloginmethoud {
+		height: 40px;
+		font-size: 12px;
+		line-height: 40px;
+		border-radius: 10px;
+	}
+	.at-widgetcontent h3 {
+		font-size: 24px;
+		line-height: 28px;
+	}
+	.at-ratingpoints ul li{padding: 5px;}
+	.at-ratingname {padding: 0 0 0 6px;}
+	.at-raterpersantage {padding: 0 0 0 10px;}
+	/* .at-starsarea {padding: 0;} */
+	.at-ratingpoints ul li:after{
+		left: 1px;
+		width: 5px;
+		height: 5px;
+	}
+	.at-accountsetting h3, .at-accountsetting i{font-size: 18px;}
+	.form-group .at-searchicon{
+		right: 15px;
+		font-size: 16px;
+	}
+	.at-signinform .form-group input {
+		height: 40px;
+		font-size: 14px;
+		line-height: 17px;
+		padding: 10px 10px 10px 45px;
+	}
+	.at-signinform .form-group .at-inputwidthicon i {
+		font-size: 14px;
+		padding: 3px 7px;
+	}
+	.at-signinform .form-group label {
+		font-size: 14px;
+		line-height: 17px;
+	}
+	.at-signinform .at-checkbox label{line-height: 27px;}
+	.at-signinpage .at-description p {
+		width: 150px;
+		font-size: 12px;
+		line-height: 15px;
+	}
+	.at-signinform .at-selectcountery {height: 40px;}
+	.at-btnlogin {
+		height: 40px;
+		font-size: 14px;
+		line-height: 36px;
+	}
+	.at-landingpagecontent {
+		padding: 10px;
+		margin: 0 10px;
+	}
+	.at-landingpagecontent .at-description {padding: 10px 0;}
+	.at-landingpagecontent .at-description p {
+		font-size: 11px;
+		line-height: 14px;
+	}
+	.at-searchform{width: 150px;}
+	.at-signinpagecontent{height: 80vh;}
+	.at-signuppage .at-signinpagecontent{height: auto;}
+	.at-signuppage .at-signincontentholder {height: auto;}
+	.at-sectionheadrightarea {
+		width: 100%;
+		float: left;
+	}
+	/* .at-rightarea {
+		width: 100%;
+		float: left;
+		padding: 5px 0 0;
+	} */
+	.at-rulecontent {width: 100%;}
+	.at-rulecontent li{width: 25%;}
+	.at-rulecontent li:last-child,
+	.at-rulecontent li:first-child{border-radius: 0;}
+	.at-signincontentholder{height: 80vh;}
+	.at-fileform {height: 50vh;}
+	.at-chapterdeletemodal .modal-body h2 {
+		font-size: 18px;
+		line-height: 21px;
+	}
+	.at-recordingcontent .at-userrecording .at-sound {width: 100%;}
+	.at-addchapers li {border-radius: 5px;}
+	.at-modaltheme .modal-body .form-group .at-inputwidthicons label {padding: 20px 0;}
+	.at-modaltheme .modal-body .form-group .at-inputwidthicons label i {
+		font-size: 50px;
+		line-height: 53px;
+	}
+	.at-creatcaptername {width: 75%;}
+	.at-modaltheme .modal-content{padding: 15px;}
+	.at-usereditprogileform .at-btnholdervtwo .at-btn,
+	.at-btncancel,
+	.at-btndeleted {
+		height: 40px;
+		padding: 0 35px;
+		line-height: 38px;
+		border-radius: 5px;
+		margin: 0 5px;
+	}
+	.at-usernameemail h2 {
+		font-size: 18px;
+		line-height: 21px;
+	}
+	.at-usernameemail span {
+		font-size: 12px;
+		line-height: 15px;
+	}
+	.at-profileform .form-group .at-inputwidthicons figure {
+		width: 90px;
+		height: 90px;
+		margin: 0 auto 10px;
+	}
+	.at-profileform .form-group .at-inputwidthicons label {
+		right: 13px;
+		bottom: 3px;
+		width: 20px;
+		height: 20px;
+		font-size: 11px;
+		line-height: 22px;
+	}
+	.at-rater .at-sectionheadrightarea{
+		width: auto;
+		float: right;
+	}
+	.at-dashboard .at-btndelete{
+		float: right;
+		margin: 0;
+	}
+	.at-btndelete {
+		margin: 0;
+		float: right;
+	}
+	.at-statsholder {padding: 10px 0;}
+	.at-filterarea ul li{
+		width: 100%;
+		padding: 0 0 20px;
+	}
+	.at-filterarea ul li:first-child{padding: 0 0 20px;}
+	.at-rater .at-sectionheadrightarea {
+		width: 100%;
+		float: left;
+	}
+	.at-rater .at-sectionheadrightarea .at-userimage{
+		width: 40px;
+		height: 40px;
+		margin: 0 10px 0 0;
+	}
+	.at-rater .at-sectionheadrightarea .at-profilearea h3{
+		font-size: 14px;
+		line-height: 17px;
+		padding: 0 0 5px;
+	}
+	.at-rater .at-sectionheadrightarea .at-profilearea a{
+		font-size: 12px;
+		line-height: 15px;
+	}
+	.at-sectionheadrightarea .at-profilearea{
+		width: 160px;
+	}
+	.at-rater .at-sectionheadrightarea .at-searchform{
+		margin: 0;
+		float: right;
+		width: 100px;
+	}
+	.at-closemenu .at-sidebarwidgetsvtwo {width: 280px;}
+	.at-recordingcontentvtwo {
+		padding: 20px 0;
+		max-width: 200px;
+		margin: 0 auto;
+		border-radius: 10px;
+	}
+	.at-rightarow {
+		right: -45%;	
+		width: 60px;
+	}
+	.at-leaftarow{
+		left: -45%;	
+		width: 60px;
+	}
+	.at-audiosound .sound-wave{height: 50px;}
+	.at-audiosound {margin: 10px;}
+	.at-btnrecorded {
+		width: 30px;
+		height: 30px;
+	}
+	.jp-current-time, .jp-duration,
+	.at-btnrecodedarea em {
+		font-size: 11px;
+		line-height: 13px;
+		padding: 0;
+	}
+	.at-btnholder {width: 300px;}
+	/* .at-username a {left: 100px;} */
+	.at-recordinghead .at-userdetail {width: 210px;}
+	.at-widgethead{padding: 20px;}
+	.at-ratingpoints{padding: 0 20px;}
+	.at-recordingstatus ul li .at-progresbar{margin: 0;}
+	.at-btnholder ul li a span {
+		font-size: 13px;
+		line-height: 16px;
+	}
+	.at-heaarticon span {
+		font-size: 12px;
+		line-height: 15px;
+	}
+	.at-btnheart {
+		font-size: 30px;
+		margin: 0 0 5px;
+	}
+	.rating > label:before {
+		margin: 1px;
+		font-size: 24px;
+		line-height: 27px;
+	}
+	.at-starsarea {padding: 9px 0 9px 10px;}
+	.at-btnsubmateholder {padding: 9px 0;}
+	.at-btnsubmited {
+		line-height: 32px;
+		padding: 0 20px;
+		border-radius: 5px;
+	}
+	.at-rule{padding: 0;}
+	.at-userdetail .at-formtheme .form-group label{height: 40px;}
+	.at-recorderimg{
+		width: 40px !important;
+		height: 40px !important;
+		margin: 0 5px 0 0;
+	}
+	.at-recorderimg img{border-radius: 10px;}
+	.at-btntoggle i {font-size: 24px;}
+	.at-username a {left: 85px;}
+	.at-sectionhead .at-sectionheadrightarea{
+		width: auto;
+		float: right;
+	}
+	.at-btnediticons {
+		top: 50px;
+		left: 90px;
+		width: 18px;
+		height: 18px;
+		font-size: 10px;
+		line-height: 21px;
+	}
+	.at-progress {
+		width: 76%;
+		margin: 10px 0;
+	}
+	.at-totalrattings li:last-child .at-progress {width: 86%;}
+	.at-btnheaarticon{margin: 10px 0;}
+	.at-btnheaarticon label{font-size: 30px;}
+}
+@media (max-width:400px){
+	.at-recorderimg {width: 40px;}
+	.at-twocolume {padding: 0 10px;}
+	.at-audiosound {max-width: 200px;}
+	/* .at-headerrightarea .at-description {
+		padding: 6px 0;
+		width: 130px;
+	} */
+	.at-selectform  .at-checkbox label {padding: 0 0 0 30px;}
+	.at-rightarea .at-btndelete{padding: 0 5px 0 0;}
+	.at-sectionheadvtwo .at-sectiontitlevtwo h2 {padding: 0 5px 0 0;}
+	.at-btnsubmit .at-btn{padding: 0 40px;}
+	.at-recordinghead .at-userdetail {
+		width: 180px;
+	}
+	.at-units em, .at-units span {
+		font-size: 12px;
+		line-height: 17px;
+	}
+	.at-rightarow {
+		right: -25%;	
+		width: 50px;
+	}
+	.at-leaftarow{
+		left: -25%;	
+		width: 50px;
+	}
+	.at-recordingheadrightarea .at-units{padding: 25px 0;}
+	.at-widgethead .at-sectiontitlevtwo h2, 
+	.at-voiceandratings .at-sectionheadvtwo .at-sectiontitlevtwo h2 {font-size: 14px;}
+	.at-rulecontent input[type="checkbox"] + label{height: 24px;}
+	.at-recordinghead .at-btnmenuvtwo{margin: 30px 5px 0 0;}
+	.at-btnediticons,
+	.at-username .at-btnheaarticon label{left: 80px;}
+}
